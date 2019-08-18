@@ -16,6 +16,6 @@ export default new Router({
       path: '/hoge',
       name: 'Hoge',
       component: Hoge,
-    }
+    },
   ],
 });
